@@ -1,0 +1,5 @@
+USERNAME: viviek
+uid: 1000
+HOME: /home/viviek
+PATH: bash: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+PS1: ~/Assignment 1
